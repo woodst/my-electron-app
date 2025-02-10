@@ -1,0 +1,27 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": " Electron tutorial at: https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woodst/my-electron-app.git"
+  },
+  "keywords": [
+    "electron",
+    "tutorial",
+    "basic"
+  ],
+  "author": "Tom Woods",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woodst/my-electron-app/issues"
+  },
+  "homepage": "https://github.com/woodst/my-electron-app#readme",
+  "devDependencies": {
+    "electron": "^34.1.1"
+  }
+}
