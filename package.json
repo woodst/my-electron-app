@@ -4,6 +4,7 @@
   "description": " Electron tutorial at: https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "test"
   },
   "repository": {
